@@ -86,7 +86,6 @@ def train(model, train_loader, epochs, optimizer, loss_fn, device):
             loss.backward()
             optimizer.step()
             
-            # total_loss += loss.data.item()
             total_loss += loss.item()
 
         print("Epoch: {}, BCELoss: {}".format(epoch, total_loss / len(train_loader)))
