@@ -1,6 +1,6 @@
 # machine-learning-udacity
 
-This repository contains all the projects I worked on as part Udacity Machine Learning Engineer Nanodegree Program.
+This repository contains all the projects I worked on as a part of "Udacity Machine Learning Engineer Nanodegree Program".
 
 List of Projects:
 1. Sentiment analysis model deployment on Sagemaker
