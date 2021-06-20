@@ -14,6 +14,6 @@ Finally, our goal is build a system that takes an input image and returns:
 
 
 Model used in the project:
-Resnet50 (for transfer learning)
-VGG16 (for dog detection)
-HaarCascade (for human face detection)
+1. Resnet50 (for transfer learning)
+2. VGG16 (for dog detection)
+3. HaarCascade (for human face detection)
