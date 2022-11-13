@@ -10,7 +10,7 @@ Project Steps:
 4. We also need to process the inputs before passing it to the model, therefore we use Lambda function, which will process the input and pass it to the model.
 5. We can then expose the API created through the API Gateway to the client to use the web app.
 
-#### AWS Services Used : Sagemaker, API Gateway, Lambda
+#### AWS Services Used : Sagemaker, API Gateway, Lambda, S3
 
 
 Note: App not available for demo since it is kinda expensive to keep a Sagemaker endpoint running.
